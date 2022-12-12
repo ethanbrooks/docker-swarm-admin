@@ -44,7 +44,7 @@
     "devextreme": "19.2",
     "devextreme-angular": "19.2",
     "devextreme-aspnet-data-nojquery": "^2.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jszip": "3.2.2",
     "ng-terminal": "^2.3.2",
     "reflect-metadata": "^0.1.13",
